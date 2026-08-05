@@ -1,0 +1,68 @@
+4:31 PM 8/5/2026
+
+Token == > Smallest unit of program is called as the token 
+
+Token is represented in 5 ways 
+
+1 identifiers  names of a function is called as identifier  variable, class, function 
+==>rule1 identifiers contains uppercase, lowercase, numeric, _
+==>rule2 no special characters involved 
+==>rule3 identifier can start with uppercase, lowercase, numeric, _ not with numeric 
+==>rule4 keywords are not allowed 
+==>rule5 python is uppercase lowercase sensitive
+
+2 operators ==> arithmetic and Nand not nor 
+3 literals ==> values 
+4 keywords ==> 35 keywords predefined words 
+5 punctuators ==>  open braces brackets etc 
+
+
+Statement ==> Each line of a code called as statement 
+
+Comments==> 
+Description of a code is called comment 
+Comments never interpreted because 
+==> #single line comment 
+==> ''' multi line comment '''
+
+Variable ==> Variable is a container that's store the value
+
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+35
+Keywords:-
+
+False-
+None- ( empty data )
+True-
+and- (logical operator)
+as- (alias name)
+assert- (debugging purpose)
+async- (API operations)
+await- (API operations)
+break- (control statement) 
+class- blue print)
+continue- jumping statement
+def- define the function
+del- delete st
+elif- condition statement 
+else -
+except-
+finally- 
+for- grouping file 
+from) 
+global) make a variable globally
+if- conditional statement 
+import- modules 
+in -membership operations 
+is- identity operator
+lambda -
+non local-
+not -
+or-
+pass- empty block of code 
+raise- used to explicitly 
+return- 
+try- Error Handling 
+while- Looping Statement
+with -
+yield- generator concept

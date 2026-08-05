@@ -1,0 +1,6 @@
+FEATUES OF PYTHON 
+ CLASS- class is nothing but blueprint of attributes and methods 
+ ENCAPSULATION-the wrapping of data (or) the process of binding the data and providing the security              to attributes called encapsulation 
+ INHERTINACE-older version to mew version (parents class to child class 
+ polymorphism-in single app more options were kept like premium same action 
+ ABSTRATION-showing in relavant info end action  is called abstration 
