@@ -1,0 +1,53 @@
+conditional  statements
+------------------------
+1.simpleif
+    The if statement is used to check a condition.
+    If the condition is True, the code inside if is executed.
+    If the condition is False, the code is skipped.
+2.if else
+    if-else is used for decision making.
+    if checks a condition.
+    If the condition is True, the if block executes.
+    If the condition is False, the else block executes.
+    Only one block will execute.   
+3.elif ladder
+    elif means else if.
+    It is used to check multiple conditions.
+    Conditions are checked from top to bottom.
+    When one condition becomes True, its block executes.
+    The remaining conditions are skipped.
+    else executes when all conditions are False.
+4.nested if 
+    Nested if means an if statement inside another if statement.
+    It is used when we need to check a second condition after the first condition is true.
+    The inner if executes only when the outer if condition is True.
+------------------------------------------------------------
+1.simple if syntax
+
+if condition:
+    #statements
+-------------------------------------------------------------
+2.if else syntax
+
+if condition:
+    #statement is true
+else :
+    #statement is False
+--------------------------------------------------------------
+3.elif syntax
+
+if condition1:
+    #statement1
+elif condtion2:
+    #statement2
+.....
+.....
+else(opt):
+    #statementn
+---------------------------------------------------------------
+4.Nested if syntax
+
+if condition1:
+    if condition2:
+        statement
+----------------------------------------------------------------
