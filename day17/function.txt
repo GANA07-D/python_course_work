@@ -1,0 +1,23 @@
+function : A function is a reusable block of code that performs a specific task. It helps avoid writing the same code repeatedly.
+
+##
+def greet():
+    print("Welcome to the app")
+
+greet()
+##
+Here, greet() is a function. Whenever we call greet(), it prints "Welcome to the app".
+
+Advantages of Functions
+
+----> Code Reusability – Write the code once and use it many times.
+----> Reduces Repetition – Avoids writing the same code again and again.
+----> Easy to Understand – Divides a large program into smaller parts.
+----> Easy to Debug – Errors can be found and fixed more easily.
+----> Easy to Maintain – Changes can be made in one function instead of many places.
+----> Organized Code – Makes programs cleaner and more structured.
+
+functons are divided into two types: User define function
+                                     build in function 
+
+                                     
